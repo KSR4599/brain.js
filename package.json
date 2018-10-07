@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KSR4599/brain.js/issues"
   },
-  "homepage": "https://github.com/KSR4599/brain.js#readme"
+  "homepage": "https://github.com/KSR4599/brain.js#readme",
+  "dependencies": {
+    "brain.js": "^1.4.2"
+  }
 }
